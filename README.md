@@ -7,7 +7,7 @@ This project is a Python application that automates data extraction (Web Scrapin
 ## 1. Project Theme & Requirements
 
 * **Main Theme:** Web Scraping and Data Processing.
-* **Programming Language:** Python 3.x
+* **Programming Language:** Python 3.13
 * **Libraries used:**
   * `requests` - for making HTTP requests to the arXiv server.
   * `beautifulsoup4` (`bs4`) - for parsing the HTML structure and extracting DOM elements (titles, links, pagination).
@@ -25,8 +25,6 @@ This project is a Python application that automates data extraction (Web Scrapin
 ---
 
 ## 2. Machine Specifications
-
-*Note: These are the system specs on which the script was developed and tested. Feel free to adjust them to match your exact hardware.*
 
 * **Operating System:** Windows 11 
 * **Processor (CPU):** AMD Ryzen 5 5600X 
