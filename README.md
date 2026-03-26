@@ -20,7 +20,7 @@ This project is a Python application that automates data extraction (Web Scrapin
 2. **User Interaction:** Using the `pick` library, the user selects the desired category using the keyboard arrows.
 3. **Data Validation:** The script checks the maximum number of available articles in the "recent" section of the chosen category and prompts the user to enter a valid number of articles to extract.
 4. **Scraping and Pagination:** The algorithm iterates through the articles. If the end of the current page is reached, it dynamically finds the *Next Page* button and navigates further until the requested number is met.
-5. **Excel Export:** The collected data is written to an `.xlsx` file, with auto-adjusted column widths and functional hyperlinks for the PDFs.
+5. **Excel Export:** The collected data is written to an `.xlsx` file with functional hyperlinks for the PDFs.
 
 ---
 
